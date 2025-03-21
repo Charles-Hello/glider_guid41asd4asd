@@ -79,7 +79,6 @@ forward=...
 
 ### 节点配置信息
 
-* 注意：以下内容随时可能被和谐
 
 以下是glider对各协议的支持
 
@@ -91,7 +90,7 @@ forward=...
 
 ![Snipaste_2023-06-11_10-15-18](https://github.com/Rain-kl/glider_guid41asd4asd/blob/master/.github/img/Snipaste_2023-06-11_10-15-18.png)
 
-用记事本打开yml，然后复制到我提供的转换器内，后续教程也放在那里了
+用记事本打开yml，然后复制到我提供的转换器内
 
 ## 运行Glider
 
